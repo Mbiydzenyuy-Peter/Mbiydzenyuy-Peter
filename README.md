@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mbiydzenyuy-Peter
+- 👋 Hi, I’m @Petersen Yroyal
 - 👀 I’m interested in web desktop mobile applications and robotics
 - 🌱 I’m currently learning Software enginering
 - 💞️ I’m looking to collaborate on the development of any software product
